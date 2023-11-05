@@ -1,0 +1,11 @@
+{
+    "name": "M.I.M.O.S.A",
+    "version": "0.1",
+    "slug": "mimosa",
+    "description": "Your Flask app as a Home Assistant add-on",
+    "options": {},
+    "boot": "auto",
+    "ports": {"8000/tcp": 8000},
+    "host_network": false
+  }
+  
